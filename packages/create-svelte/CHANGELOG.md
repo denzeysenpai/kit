@@ -1,5 +1,11 @@
 # create-svelte
 
+## 6.3.4
+### Patch Changes
+
+
+- fix: remove unnecessary `tslib` dependency ([#12453](https://github.com/sveltejs/kit/pull/12453))
+
 ## 6.3.3
 ### Patch Changes
 
